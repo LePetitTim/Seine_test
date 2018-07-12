@@ -1,6 +1,6 @@
 import json
 import fiona
-from shapely.geometry import shape, LineString, mapping, Point, MultiPoint
+from shapely.geometry import shape, LineString, mapping, Point, MultiPoint, Polygon, MultiPolygon
 from shapely.ops import linemerge, cascaded_union
 import os
 
@@ -48,6 +48,22 @@ for i, line in enumerate(seine['features']):
 multi_line = [linemerge(seine_geom_l)]
 multi_line.extend(seine_geom_ml)
 multi_line = cascaded_union(multi_line)
+bounding_box = multi_line.bounds
+y = (bounding_box[3]-bounding_box[1])
+x = (bounding_box[2]-bounding_box[0])
+tmpx = bounding_box[0]
+tmpy = bounding_box[1]
+polygons = []
+i=0
+while tmpx < bounding_box[2]:
+    tmpy = bounding_box[1]
+    while tmpy < bounding_box[3]:
+        polygons.append(Polygon([(tmpx, tmpy), (tmpx, tmpy + 1/111), (tmpx + 1/111, tmpy + 1/111), (tmpx + 1/111, tmpy)]))
+        tmpy += 1/111
+        i += 1
+    tmpx += 1/111
+# mp = MultiPolygon(polygons)
+# dict = {}
 
 for name in names:
     gjs = get_geojson('./points/' + name)
@@ -55,13 +71,22 @@ for name in names:
         tmp = get_all_points(multi_line, gjs, 0.075)
     else:
         tmp = get_all_points(multi_line, gjs, 0.025)
-    create_shp(name, tmp)
+    distances = []
+    size = len(tmp)
+    for polygon in polygons:
+        distance = 0
+        for val in tmp:
+            distance += 1 / (val.distance(polygon)**5 + 1)
+        distances.append(distance)
+    print(max(distances))
+    print(min(distances))
+    # create_shp(name, tmp)
 
-schema = {'geometry': 'MultiLineString',
+schema = {'geometry': 'MultiPolygon',
           'properties': {'id': 'int'}}
 
-with fiona.open('seine.shp', 'w', 'ESRI Shapefile', schema, encoding='utf-8') as c:
-    c.write({'geometry':  mapping(multi_line),
+with fiona.open('test.shp', 'w', 'ESRI Shapefile', schema, encoding='utf-8') as c:
+    c.write({'geometry':  mapping(mp),
                      'properties': {
                          'id' : 3}})
 

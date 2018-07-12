@@ -62,7 +62,7 @@ while tmpx < bounding_box[2]:
         tmpy += 1/111
         i += 1
     tmpx += 1/111
-# mp = MultiPolygon(polygons)
+mp = MultiPolygon(polygons)
 # dict = {}
 
 for name in names:

@@ -1,0 +1,1230 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-07-09T12:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858424",
+        "created_by": "JOSM",
+        "name": "Charbonnieres",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.037778,
+          48.719722
+        ]
+      },
+      "id": "node/26858424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858438",
+        "name": "Chêne Gris",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.993056,
+          48.825278
+        ]
+      },
+      "id": "node/26858438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858634",
+        "name": "Justice",
+        "name:fr": "Justice camping",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.047222,
+          48.3325
+        ]
+      },
+      "id": "node/26858634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858660",
+        "name": "La Foret",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7517644,
+          48.0077832
+        ]
+      },
+      "id": "node/26858660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858747",
+        "created_by": "JOSM",
+        "name": "Le Parc",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.670278,
+          48.9125
+        ]
+      },
+      "id": "node/26858747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26858749",
+        "name": "Le Pins",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.455556,
+          48.638333
+        ]
+      },
+      "id": "node/26858749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26859057",
+        "name": "Roches",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1378939,
+          48.5430352
+        ]
+      },
+      "id": "node/26859057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26859093",
+        "name": "Le Mail",
+        "operator": "Municipalité",
+        "phone": "+33 3 23 74 52 69",
+        "stars": "2",
+        "tourism": "camp_site",
+        "website": "www.tourisme-soissons.fr/Hotels-et-Hebergements/Le-camping-Municipal-de-Soissons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3275066,
+          49.3931078
+        ]
+      },
+      "id": "node/26859093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272822587",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0420896,
+          48.996268
+        ]
+      },
+      "id": "node/272822587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283591787",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7149943,
+          48.4794929
+        ]
+      },
+      "id": "node/283591787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292147756",
+        "created_by": "Potlatch 0.10b",
+        "internet_access": "wlan",
+        "name": "Camping de la Trye",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2576995,
+          49.404347
+        ]
+      },
+      "id": "node/292147756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409506441",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7167812,
+          48.3546387
+        ]
+      },
+      "id": "node/409506441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/460356937",
+        "name": "Le Parc du Gué",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7536284,
+          48.332374
+        ]
+      },
+      "id": "node/460356937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/502959844",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2948211,
+          47.8062674
+        ]
+      },
+      "id": "node/502959844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571777247",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4833905,
+          48.5777234
+        ]
+      },
+      "id": "node/571777247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/579383377",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7215816,
+          48.9210641
+        ]
+      },
+      "id": "node/579383377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/676788294",
+        "name": "Prairie Du Moulin Neuf",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2257822,
+          48.5861821
+        ]
+      },
+      "id": "node/676788294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/693043402",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3645488,
+          48.5108271
+        ]
+      },
+      "id": "node/693043402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/694187955",
+        "capacity": "595",
+        "name": "Disney's Davy Crockett Ranch",
+        "operator": "Euro Disney SCA",
+        "phone": "+33 825 300 500",
+        "rooms": "595",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "stars": "2",
+        "tourism": "camp_site",
+        "website": "http://www.disneylandparis.fr/hotels/disneys-davy-crockett-ranch/",
+        "wikidata": "Q3030337",
+        "wikipedia": "fr:Disney's Ranch Davy Crockett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8150816,
+          48.8344863
+        ]
+      },
+      "id": "node/694187955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/736865193",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3760247,
+          49.1168824
+        ]
+      },
+      "id": "node/736865193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/819265560",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3444332,
+          47.9956403
+        ]
+      },
+      "id": "node/819265560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/946028222",
+        "name": "Le Moulin Rose",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5542488,
+          47.8624153
+        ]
+      },
+      "id": "node/946028222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/981618548",
+        "name": "Camping de l'ile",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0292485,
+          49.012514
+        ]
+      },
+      "id": "node/981618548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997982574",
+        "name": "Le Colombier",
+        "phone": "+33 3 25 92 23 47",
+        "stars": "3",
+        "tourism": "camp_site",
+        "website": "www.lecolombier10500.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5323139,
+          48.3482858
+        ]
+      },
+      "id": "node/997982574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1253887401",
+        "addr:city": "Milly-la-Forêt",
+        "addr:postcode": "91490",
+        "addr:street": "Route des Grandes Vallées",
+        "email": "lamusardiere91@orange.fr",
+        "name": "La Musardière",
+        "phone": "+33 1 64 98 91 91",
+        "tourism": "camp_site",
+        "website": "http://www.millylaforet-tourisme.com/La-Musardiere,699?lang=en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.506409,
+          48.394546
+        ]
+      },
+      "id": "node/1253887401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1281270189",
+        "name": "Camping des Chênets",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9595762,
+          48.9696706
+        ]
+      },
+      "id": "node/1281270189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1327316592",
+        "name": "Les Terres Rouges",
+        "phone": "+33 3 25 46 04 45",
+        "tourism": "camp_site",
+        "website": "www.les-terres-rouges.fr/site/camping.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.169159,
+          48.1991264
+        ]
+      },
+      "id": "node/1327316592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1351141213",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9317864,
+          48.5684322
+        ]
+      },
+      "id": "node/1351141213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1361050287",
+        "tents": "yes",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9861798,
+          47.9351489
+        ]
+      },
+      "id": "node/1361050287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1452089347",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9312122,
+          48.7317687
+        ]
+      },
+      "id": "node/1452089347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1492273399",
+        "name": "Camping de Nogent sur Seine",
+        "operator": "Municipalité",
+        "stars": "2",
+        "tourism": "camp_site",
+        "website": "www.tourisme-champagne-ardenne.com/hebergement/hotellerie-de-plein-air/camping-municipal/nogent-sur-seine/o_3262.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5088009,
+          48.5036267
+        ]
+      },
+      "id": "node/1492273399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1644266633",
+        "name": "Camping caravaning",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7034716,
+          48.7207417
+        ]
+      },
+      "id": "node/1644266633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1711271946",
+        "internet_access": "wlan",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2143244,
+          49.1669282
+        ]
+      },
+      "id": "node/1711271946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712501272",
+        "name": "Les Ilettes",
+        "operator": "Municipalité",
+        "phone": "+33 3 23 82 12 11",
+        "stars": "3",
+        "tourism": "camp_site",
+        "website": "www.charly-sur-marne.fr/pages.asp?rubid=84088&srubid=112290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2811416,
+          48.9735468
+        ]
+      },
+      "id": "node/1712501272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861321031",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5390892,
+          47.8142906
+        ]
+      },
+      "id": "node/1861321031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1875985775",
+        "name": "Camping Le Moulin des Prés",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2152224,
+          48.7982479
+        ]
+      },
+      "id": "node/1875985775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927877869",
+        "name": "camping Les Grebes du Lac de Marcenay",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4047128,
+          47.8703085
+        ]
+      },
+      "id": "node/1927877869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1952712954",
+        "internet_access": "no",
+        "name": "Camping Municipal Le Serein",
+        "phone": "+33 386424439",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8060989,
+          47.8130412
+        ]
+      },
+      "id": "node/1952712954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2068163378",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8435136,
+          47.81623
+        ]
+      },
+      "id": "node/2068163378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379443140",
+        "description": "inexpensive, no additional charge for shower, heated shower building",
+        "shower": "hot",
+        "shower:building": "closed;heated",
+        "shower:fee": "no",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6716016,
+          49.3091903
+        ]
+      },
+      "id": "node/2379443140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2429103620",
+        "name": "La Barbuise",
+        "phone": "+33 3 25 37 50 95",
+        "tourism": "camp_site",
+        "website": "www.aube-champagne.com/fr/ou-dormir-,camping-de-la-barbuise.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1277925,
+          48.4663279
+        ]
+      },
+      "id": "node/2429103620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2517442308",
+        "name": "La Ferme des Hauts Frenes",
+        "phone": "+33 3 25 42 15 04",
+        "stars": "3",
+        "tourism": "camp_site",
+        "website": "www.les-hauts-frenes.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8833965,
+          48.1169978
+        ]
+      },
+      "id": "node/2517442308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2766607051",
+        "addr:city": "Verneuil-en-Halatte",
+        "addr:housenumber": "12",
+        "addr:postcode": "60550",
+        "addr:street": "Rue de l'Egalité",
+        "name": "Camping de la Sapinière",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.514105,
+          49.2751559
+        ]
+      },
+      "id": "node/2766607051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2909222480",
+        "addr:city": "Charny",
+        "addr:housenumber": "41",
+        "addr:postcode": "89120",
+        "addr:street": "route de la Mothe",
+        "name": "Camping Les Platanes",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0929986,
+          47.8906269
+        ]
+      },
+      "id": "node/2909222480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084318408",
+        "name": "La Pointe",
+        "phone": "+33 3 23 25 87 52",
+        "stars": "2",
+        "tourism": "camp_site",
+        "website": "www.camping-aisne.com/?-camping-de-la-pointe-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6612841,
+          49.398702
+        ]
+      },
+      "id": "node/3084318408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084367706",
+        "name": "Les Etangs",
+        "operator": "Municipalité",
+        "phone": "+33 3 23 59 71 17",
+        "tourism": "camp_site",
+        "website": "www.camping-les-etangs.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.473142,
+          49.3828853
+        ]
+      },
+      "id": "node/3084367706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084431339",
+        "name": "Les Bruyères",
+        "operator": "Municipalité",
+        "phone": "+33 3 23 82 71 22",
+        "stars": "1",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.516871,
+          49.2091191
+        ]
+      },
+      "id": "node/3084431339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084555820",
+        "name": "Le Domaine de la Nature",
+        "phone": "+33 3 23 54 74 55",
+        "stars": "2",
+        "tourism": "camp_site",
+        "website": "www.camping-domainedelanature.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5133605,
+          49.4019801
+        ]
+      },
+      "id": "node/3084555820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087666228",
+        "name": "L'Européen",
+        "phone": "+33 3 25 41 26 82",
+        "tourism": "camp_site",
+        "website": "www.campingfrance.com/Recherchez-votre-camping/Champagne-Ardenne/Aube/GERAUDOT/AIRE-NATURELLE-L-EUROPEEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3337114,
+          48.312016
+        ]
+      },
+      "id": "node/3087666228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087707155",
+        "name": "Les Dolmens",
+        "operator": "Municipalité",
+        "phone": "+33 3 25 21 74 34",
+        "tourism": "camp_site",
+        "website": "www.aube-champagne.com/fr/camping-municipal-les-dolmens.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6255999,
+          48.3479532
+        ]
+      },
+      "id": "node/3087707155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087759994",
+        "name": "Base de Loisirs Départementale",
+        "phone": "+33 3 25 41 28 12",
+        "tourism": "camp_site",
+        "website": "www.bases-aepa.fr/siteMesnil.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3425545,
+          48.2580639
+        ]
+      },
+      "id": "node/3087759994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087798417",
+        "name": "Camping de Pont sur Seine",
+        "operator": "Municipalité",
+        "phone": "+33 3 25 21 40 22",
+        "tourism": "camp_site",
+        "website": "www.aube-champagne.com/fr/aire-naturelle-municipale-de-pont-sur-seine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.59204,
+          48.5214765
+        ]
+      },
+      "id": "node/3087798417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087897653",
+        "name": "Ferme de M. DIAZ",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0117333,
+          48.0244167
+        ]
+      },
+      "id": "node/3087897653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3087919336",
+        "name": "Club Soleil de Troyes",
+        "phone": "+33 3 25 41 70 82",
+        "tourism": "camp_site",
+        "website": "www.cstroyes.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1365284,
+          48.2346832
+        ]
+      },
+      "id": "node/3087919336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3128422100",
+        "addr:city": "Auvers-sur-Oise",
+        "addr:postcode": "95430",
+        "addr:street": "Chemin de Bellerive",
+        "maxtents": "30",
+        "name": "Camping Bellerive",
+        "phone": "+33 1 34 48 05 22",
+        "source": "survey",
+        "tourism": "camp_site",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1693801,
+          49.0650583
+        ]
+      },
+      "id": "node/3128422100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3469090227",
+        "addr:city": "Hermé - Gouaix",
+        "addr:housenumber": "11",
+        "addr:postcode": "77114",
+        "addr:street": "chemin du Camping",
+        "contact:email": "reception@presdelafontaine.com",
+        "name": "Les Prés de la Fontaine",
+        "phone": "+33 1 64 01 86 08",
+        "tourism": "camp_site",
+        "website": "www.presdelafontaine.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3203985,
+          48.4678496
+        ]
+      },
+      "id": "node/3469090227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3469091860",
+        "addr:street": "Rue des Pâtures",
+        "contact:email": "camping.lapeupleraie@wanadoo.fr",
+        "name": "La Peupleraie",
+        "phone": "+33 1 60 67 12 24",
+        "stars": "1",
+        "tourism": "camp_site",
+        "website": "www.lapeupleraie.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2472341,
+          48.4143415
+        ]
+      },
+      "id": "node/3469091860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3469097015",
+        "addr:city": "CHENOISE",
+        "addr:postcode": "77160",
+        "addr:street": "La Mercy Route de La Croix",
+        "contact:email": "fermedelamercy@wanadoo.fr",
+        "name": "Camping à la Ferme de la Mercy",
+        "phone": "+33 1 64 00 93 10",
+        "tourism": "camp_site",
+        "website": "http://www.ferme-delamercy.com/contact"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1587779,
+          48.6086818
+        ]
+      },
+      "id": "node/3469097015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3469098669",
+        "addr:city": "Conflans-sur-Seine",
+        "addr:postcode": "51260",
+        "addr:street": "Rue du Port",
+        "contact:email": "lavalleedelaseine@orange.fr",
+        "name": "La Vallée de la Seine",
+        "phone": "+33 3 26 80 98 28",
+        "tourism": "camp_site",
+        "website": "www.lavalleedelaseine.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6776287,
+          48.5501127
+        ]
+      },
+      "id": "node/3469098669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3669874570",
+        "backcountry": "yes",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7397704,
+          48.6947802
+        ]
+      },
+      "id": "node/3669874570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700821276",
+        "name": "Camping Le Beau Village De Paris",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3043453,
+          48.655178
+        ]
+      },
+      "id": "node/3700821276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263153189",
+        "name": "Camping de l'Hermitage",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0923737,
+          48.3957968
+        ]
+      },
+      "id": "node/4263153189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4811664546",
+        "addr:city": "Courdimanche-sur-Essonne",
+        "addr:postcode": "91720",
+        "addr:street": "Impasse de la Varenne",
+        "email": "campingbelesbat@orange.fr",
+        "fee": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Le Cattiaux camping",
+        "phone": "+33 1 64 99 39 52",
+        "tourism": "camp_site",
+        "website": "http://www.camping-belesbat.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3787596,
+          48.4268021
+        ]
+      },
+      "id": "node/4811664546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4829596821",
+        "addr:postcode": "77750",
+        "addr:street": "rue Chabrol",
+        "name": "Caravaning Le Choisel",
+        "name:fr": "Caravaning Le Choisel",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1531173,
+          48.9059409
+        ]
+      },
+      "id": "node/4829596821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4877741326",
+        "addr:street": "Rue du Château d'Eau",
+        "name": "chez Nelly et Seb",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5967739,
+          48.322004
+        ]
+      },
+      "id": "node/4877741326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878438522",
+        "name": "bord d'un étang",
+        "name:fr": "bord d'un étang",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3750331,
+          48.5534193
+        ]
+      },
+      "id": "node/4878438522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4958893621",
+        "addr:postcode": "45340",
+        "internet_access": "wlan",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3503273,
+          48.0159596
+        ]
+      },
+      "id": "node/4958893621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5054673613",
+        "email": "contact@domaine-du-nogentais.fr",
+        "name": "Domaine du Nogentais",
+        "phone": "+33325215480",
+        "tourism": "camp_site",
+        "website": "http://domaine-du-nogentais.fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4780258,
+          48.5182176
+        ]
+      },
+      "id": "node/5054673613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109244637",
+        "addr:housenumber": "2",
+        "addr:street": "Route de Cresnes",
+        "name": "Camping du Bois Joli",
+        "tourism": "camp_site",
+        "url": "http://campingduboisjoli.e-monsite.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0472082,
+          49.2041651
+        ]
+      },
+      "id": "node/5109244637"
+    }
+  ]
+}
